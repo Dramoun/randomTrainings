@@ -1,3 +1,2 @@
-# daily
-daily interview coding
-gotta save stuff from personal computer
+# training
+random training exercises completed
