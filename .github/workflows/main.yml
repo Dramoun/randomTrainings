@@ -2,6 +2,6 @@ name: caller
 on: workflow_dispatch
 jobs:
   call_action:
-    runs-on: ubuntu-lastest
+    runs-on: ubuntu-latest
     steps:
       - uses: Dramoun/didactic-chainsaw@v1
