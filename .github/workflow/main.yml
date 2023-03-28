@@ -1,5 +1,5 @@
 name: caller
-on: workflow_dispatch
+on: [push, workflow_dispatch]
 jobs:
   call_action:
     runs-on: ubuntu-lastest
