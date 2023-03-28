@@ -4,4 +4,4 @@ jobs:
   call_action:
     runs-on: ubuntu-latest
     steps:
-      - uses: Dramoun/didactic-chainsaw@v1.0
+      - uses: Dramoun/didactic-chainsaw@main
